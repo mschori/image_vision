@@ -77,7 +77,7 @@ export default class GoogleVision extends Component {
                     ]
             };
 
-        axios.post('https://vision.googleapis.com/v1/images:annotate?key=***', data)
+        axios.post('https://vision.googleapis.com/v1/images:annotate?key=AIzaSyCfVoRkmRpvFHU-XyMihGn2LW0w6QRGBQ4', data)
             .then(res => {
                 console.log(res.data.responses[0].labelAnnotations);
 
