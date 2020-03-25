@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="797f4c79-40a9-43fd-8c52-f87b0b8b5b55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GoogleVisionApi/BarChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GoogleVisionApi/GoogleVision.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GoogleVisionApi/googleVision.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/image_visioin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/image_vision.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +73,16 @@
       <workItem from="1584469101492" duration="4955000" />
       <workItem from="1584604230056" duration="50000" />
       <workItem from="1584640456608" duration="6408000" />
-      <workItem from="1585122518505" duration="7921000" />
+      <workItem from="1585122518505" duration="8068000" />
     </task>
+    <task id="LOCAL-00001" summary="finished">
+      <created>1585130570076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585130570076</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +90,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="275" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584640812836">
@@ -104,6 +102,10 @@
       <screen x="0" y="0" width="1920" height="944" />
     </state>
     <state x="690" y="219" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.944@0.0.1920.944" timestamp="1585126130146" />
+    <state x="585" y="66" key="CommitChangelistDialog2" timestamp="1585130569024">
+      <screen x="0" y="0" width="1920" height="944" />
+    </state>
+    <state x="585" y="66" key="CommitChangelistDialog2/0.0.1920.944@0.0.1920.944" timestamp="1585130569024" />
     <state x="740" y="227" key="FileChooserDialogImpl" timestamp="1584604279045">
       <screen x="0" y="0" width="1920" height="944" />
     </state>
@@ -128,5 +130,9 @@
       <screen x="0" y="0" width="1920" height="944" />
     </state>
     <state x="461" y="114" key="SettingsEditor/0.0.1920.944@0.0.1920.944" timestamp="1584641027181" />
+    <state x="552" y="193" key="Vcs.Push.Dialog.v2" timestamp="1585130656974">
+      <screen x="0" y="0" width="1920" height="944" />
+    </state>
+    <state x="552" y="193" key="Vcs.Push.Dialog.v2/0.0.1920.944@0.0.1920.944" timestamp="1585130656974" />
   </component>
 </project>
