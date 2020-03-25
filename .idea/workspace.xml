@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="797f4c79-40a9-43fd-8c52-f87b0b8b5b55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="797f4c79-40a9-43fd-8c52-f87b0b8b5b55" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +39,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="ts.external.directory.path" value="S:\JetBrains\WebStorm 2019.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -73,7 +71,7 @@
       <workItem from="1584469101492" duration="4955000" />
       <workItem from="1584604230056" duration="50000" />
       <workItem from="1584640456608" duration="6408000" />
-      <workItem from="1585122518505" duration="8068000" />
+      <workItem from="1585122518505" duration="8144000" />
     </task>
     <task id="LOCAL-00001" summary="finished">
       <created>1585130570076</created>
@@ -82,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585130570076</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1585130689776</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585130689776</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +96,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="275" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584640812836">
@@ -102,10 +108,10 @@
       <screen x="0" y="0" width="1920" height="944" />
     </state>
     <state x="690" y="219" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.944@0.0.1920.944" timestamp="1585126130146" />
-    <state x="585" y="66" key="CommitChangelistDialog2" timestamp="1585130569024">
+    <state x="585" y="66" key="CommitChangelistDialog2" timestamp="1585130688890">
       <screen x="0" y="0" width="1920" height="944" />
     </state>
-    <state x="585" y="66" key="CommitChangelistDialog2/0.0.1920.944@0.0.1920.944" timestamp="1585130569024" />
+    <state x="585" y="66" key="CommitChangelistDialog2/0.0.1920.944@0.0.1920.944" timestamp="1585130688890" />
     <state x="740" y="227" key="FileChooserDialogImpl" timestamp="1584604279045">
       <screen x="0" y="0" width="1920" height="944" />
     </state>
@@ -126,13 +132,13 @@
       <screen x="0" y="0" width="1920" height="944" />
     </state>
     <state width="1899" height="249" key="GridCell.Tab.0.right/0.0.1920.944@0.0.1920.944" timestamp="1585130399437" />
-    <state x="461" y="114" key="SettingsEditor" timestamp="1584641027181">
+    <state x="461" y="114" key="SettingsEditor" timestamp="1585130745806">
       <screen x="0" y="0" width="1920" height="944" />
     </state>
-    <state x="461" y="114" key="SettingsEditor/0.0.1920.944@0.0.1920.944" timestamp="1584641027181" />
-    <state x="552" y="193" key="Vcs.Push.Dialog.v2" timestamp="1585130656974">
+    <state x="461" y="114" key="SettingsEditor/0.0.1920.944@0.0.1920.944" timestamp="1585130745806" />
+    <state x="552" y="193" key="Vcs.Push.Dialog.v2" timestamp="1585130714236">
       <screen x="0" y="0" width="1920" height="944" />
     </state>
-    <state x="552" y="193" key="Vcs.Push.Dialog.v2/0.0.1920.944@0.0.1920.944" timestamp="1585130656974" />
+    <state x="552" y="193" key="Vcs.Push.Dialog.v2/0.0.1920.944@0.0.1920.944" timestamp="1585130714236" />
   </component>
 </project>
