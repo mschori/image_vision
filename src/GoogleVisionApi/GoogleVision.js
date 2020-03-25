@@ -26,11 +26,11 @@ export default class GoogleVision extends Component {
                            className="btn btn-primary"/>
                 </div>
                 <div className="row justify-content-center mt-3">
-                    <div className="col">
+                    <div className="col-6">
                         <img src={this.state.image} alt="" className="img-responsive imagePreview"/>
                     </div>
                 </div>
-                <div className="row justify-content-center mt-3">
+                <div className="row justify-content-center mt-5">
                     <div className="col">
                         {this.state.show && <BarChart values={this.state.imageInfo} labels={this.state.imageLabels}/>}
                     </div>
