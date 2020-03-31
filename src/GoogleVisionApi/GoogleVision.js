@@ -52,13 +52,13 @@ export default class GoogleVision extends Component {
 
         reader.onload = function (r) {
             self.setState({imageBase64: r.target.result.split(',')[1]});
-            self.testGoogleVisio();
+            self.checkImage();
         };
 
         reader.readAsDataURL(file);
     };
 
-    testGoogleVisio = () => {
+    checkImage = () => {
         let data =
             {
                 "requests":
